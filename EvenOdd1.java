@@ -7,7 +7,7 @@ public class EvenOdd1 {
         int number = scanner.nextInt();
 
         if (number % 2 == 0) {
-            System.out.println(number + " is even number.");
+            System.out.println(number + " is even number(master branch).");
         } else {
             System.out.println(number + " is odd number.");
         }
